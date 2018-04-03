@@ -8,5 +8,5 @@ using namespace std;
 
 
 void interpolate(string txtfile) {
-    
+    f
 }
